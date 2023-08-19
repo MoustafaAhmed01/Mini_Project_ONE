@@ -46,9 +46,3 @@ Vehicle Control System
    f. Engine temperature.
 
 9. If selecting "Turn off the engine" in the menu from Requirement 5, return to menu of Requirement 1.
-
-This implementation demonstrates efficient control and interaction between vehicle engine, sensors, and control systems, ensuring a well-coordinated and functional vehicle operation. The system's responsiveness to real-world conditions showcases effective embedded programming. 
-
-*[Add Your Own Implementation Details and Technical Insights Here]*
-
-Feel free to use this outline as the foundation for a detailed explanation of your implementation in your GitHub repository's README file.
