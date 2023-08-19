@@ -1,0 +1,2820 @@
+16:52:40 **** Rebuild of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:7:27: error: expected ';' before 'return'
+    7 |         printf("Hello \n")
+      |                           ^
+      |                           ;
+    8 |         return 0;
+      |         ~~~~~~             
+16:52:42 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:00:51 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:7:14: warning: unused variable 'welcomeoptions' [-Wunused-variable]
+    7 |         char welcomeoptions;
+      |              ^~~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:01:03 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:7:14: warning: unused variable 'welcomeoptions' [-Wunused-variable]
+    7 |         char welcomeoptions;
+      |              ^~~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:13:47 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:14:24 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+17:15:50 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:35:45: error: expected ';' before 'return'
+   35 |                 puts("Shutting System down")
+      |                                             ^
+      |                                             ;
+   36 |                 return 0;
+      |                 ~~~~~~                       
+17:16:03 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+17:19:11 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+17:26:11 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:35:17: error: label 'firstpage' used but not defined
+   35 |                 goto firstpage;
+      |                 ^~~~
+..\Project.c:19:1: warning: label 'FirstPage' defined but not used [-Wunused-label]
+   19 | FirstPage:
+      | ^~~~~~~~~
+17:26:21 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:26:31 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:26:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+17:31:02 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:51:03 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:51:15 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+18:07:13 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:29: error: expected ':', ',', ';', '}' or '__attribute__' before '.' token
+   12 |         char Engine[3],AC[3].EngineTempController[3];
+      |                             ^
+..\Project.c: In function 'main':
+..\Project.c:35:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   35 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:45:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   45 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:32:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   32 |                 OnPage:
+      |                 ^~~~~~
+18:07:49 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:35:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   35 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:45:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   45 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:32:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   32 |                 OnPage:
+      |                 ^~~~~~
+..\Project.c:45:25: warning: 'RandomOptions' may be used uninitialized [-Wmaybe-uninitialized]
+   45 |                         scanf(" %c",RandomOptions);
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Project.c:18:29: note: 'RandomOptions' was declared here
+   18 |         char welcomeoptions,RandomOptions;
+      |                             ^~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+18:13:36 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:35:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   35 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:46:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:32:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   32 |                 OnPage:
+      |                 ^~~~~~
+..\Project.c:46:25: warning: 'RandomOptions' may be used uninitialized [-Wmaybe-uninitialized]
+   46 |                         scanf(" %c",RandomOptions);
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Project.c:18:29: note: 'RandomOptions' was declared here
+   18 |         char welcomeoptions,RandomOptions;
+      |                             ^~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+18:14:41 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:32:30: error: assignment to expression with array type
+   32 |                 System.Engine="ON";
+      |                              ^
+..\Project.c:36:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   36 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:47:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:33:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   33 |                 OnPage:
+      |                 ^~~~~~
+18:15:34 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:36:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   36 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:47:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:33:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   33 |                 OnPage:
+      |                 ^~~~~~
+..\Project.c:47:25: warning: 'RandomOptions' may be used uninitialized [-Wmaybe-uninitialized]
+   47 |                         scanf(" %c",RandomOptions);
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Project.c:18:29: note: 'RandomOptions' was declared here
+   18 |         char welcomeoptions,RandomOptions;
+      |                             ^~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+18:15:54 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:36:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   36 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:47:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:33:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   33 |                 OnPage:
+      |                 ^~~~~~
+..\Project.c:47:25: warning: 'RandomOptions' may be used uninitialized [-Wmaybe-uninitialized]
+   47 |                         scanf(" %c",RandomOptions);
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Project.c:18:29: note: 'RandomOptions' was declared here
+   18 |         char welcomeoptions,RandomOptions;
+      |                             ^~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+18:29:50 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:18:40: error: 'struct status' has no member named 'Engine'
+   18 |         printf(" Engine is %s\n",System.Engine);
+      |                                        ^
+..\Project.c:19:36: error: 'struct status' has no member named 'AC'
+   19 |         printf(" AC is %s\n",System.AC);
+      |                                    ^
+..\Project.c:20:54: error: 'struct status' has no member named 'Vspeed'
+   20 |         printf(" Vehicle speed is: %d Km/Hr\n",System.Vspeed);
+      |                                                      ^
+..\Project.c:21:53: error: 'struct status' has no member named 'Rtemp'
+   21 |         printf(" Room Temperature is: %d C\n",System.Rtemp);
+      |                                                     ^
+..\Project.c:22:55: error: 'struct status' has no member named 'EngineTempController'
+   22 |         printf("Engine Temp Controller is %s\n",System.EngineTempController);
+      |                                                       ^
+..\Project.c:23:54: error: 'struct status' has no member named 'Etemp'
+   23 |         printf("Engine Temperature is: %d C\n",System.Etemp);
+      |                                                      ^
+..\Project.c: In function 'main':
+..\Project.c:43:30: error: 'struct status' has no member named 'Engine'
+   43 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:47:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:58:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   58 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:62:42: error: 'struct status' has no member named 'Vspeed'
+   62 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:64:42: error: 'struct status' has no member named 'Vspeed'
+   64 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:66:42: error: 'struct status' has no member named 'Vspeed'
+   66 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:44:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   44 |                 OnPage:
+      |                 ^~~~~~
+18:31:15 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:18:40: error: 'struct status' has no member named 'Engine'
+   18 |         printf(" Engine is %s\n",System.Engine);
+      |                                        ^
+..\Project.c:19:36: error: 'struct status' has no member named 'AC'
+   19 |         printf(" AC is %s\n",System.AC);
+      |                                    ^
+..\Project.c:20:54: error: 'struct status' has no member named 'Vspeed'
+   20 |         printf(" Vehicle speed is: %d Km/Hr\n",System.Vspeed);
+      |                                                      ^
+..\Project.c:21:53: error: 'struct status' has no member named 'Rtemp'
+   21 |         printf(" Room Temperature is: %d C\n",System.Rtemp);
+      |                                                     ^
+..\Project.c:22:55: error: 'struct status' has no member named 'EngineTempController'
+   22 |         printf("Engine Temp Controller is %s\n",System.EngineTempController);
+      |                                                       ^
+..\Project.c:23:54: error: 'struct status' has no member named 'Etemp'
+   23 |         printf("Engine Temperature is: %d C\n",System.Etemp);
+      |                                                      ^
+..\Project.c: In function 'main':
+..\Project.c:43:30: error: 'struct status' has no member named 'Engine'
+   43 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:47:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:58:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   58 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:62:42: error: 'struct status' has no member named 'Vspeed'
+   62 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:64:42: error: 'struct status' has no member named 'Vspeed'
+   64 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:66:42: error: 'struct status' has no member named 'Vspeed'
+   66 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:44:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   44 |                 OnPage:
+      |                 ^~~~~~
+18:31:40 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:18:40: error: 'struct status' has no member named 'Engine'
+   18 |         printf(" Engine is %s\n",System.Engine);
+      |                                        ^
+..\Project.c:19:36: error: 'struct status' has no member named 'AC'
+   19 |         printf(" AC is %s\n",System.AC);
+      |                                    ^
+..\Project.c:20:54: error: 'struct status' has no member named 'Vspeed'
+   20 |         printf(" Vehicle speed is: %d Km/Hr\n",System.Vspeed);
+      |                                                      ^
+..\Project.c:21:53: error: 'struct status' has no member named 'Rtemp'
+   21 |         printf(" Room Temperature is: %d C\n",System.Rtemp);
+      |                                                     ^
+..\Project.c:22:55: error: 'struct status' has no member named 'EngineTempController'
+   22 |         printf("Engine Temp Controller is %s\n",System.EngineTempController);
+      |                                                       ^
+..\Project.c:23:54: error: 'struct status' has no member named 'Etemp'
+   23 |         printf("Engine Temperature is: %d C\n",System.Etemp);
+      |                                                      ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:32:39 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:34:50 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]={"OFF"},AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:35:14 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:13:29: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   13 |         unsigned char Vspeed=100,Rtemp=35,Etemp=90;
+      |                             ^
+..\Project.c: In function 'main':
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:35:32 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+..\Project.c:57:25: warning: 'RandomOptions' may be used uninitialized [-Wmaybe-uninitialized]
+   57 |                         scanf(" %c",RandomOptions);
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Project.c:28:29: note: 'RandomOptions' was declared here
+   28 |         char welcomeoptions,RandomOptions;
+      |                             ^~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+18:36:45 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4],EngineTempController[4];
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:43:30: error: 'struct status' has no member named 'Engine'
+   43 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:47:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:58:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   58 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:62:42: error: 'struct status' has no member named 'Vspeed'
+   62 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:64:42: error: 'struct status' has no member named 'Vspeed'
+   64 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:66:42: error: 'struct status' has no member named 'Vspeed'
+   66 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:44:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   44 |                 OnPage:
+      |                 ^~~~~~
+18:37:08 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF";
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:43:30: error: 'struct status' has no member named 'Engine'
+   43 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:47:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:58:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   58 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:62:42: error: 'struct status' has no member named 'Vspeed'
+   62 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:64:42: error: 'struct status' has no member named 'Vspeed'
+   64 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:66:42: error: 'struct status' has no member named 'Vspeed'
+   66 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:44:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   44 |                 OnPage:
+      |                 ^~~~~~
+18:38:05 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]={'O','F','F','\0';
+      |                       ^
+18:38:11 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]={'O','F','F','\0'};
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:43:30: error: 'struct status' has no member named 'Engine'
+   43 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:47:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   47 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:58:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   58 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:62:42: error: 'struct status' has no member named 'Vspeed'
+   62 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:64:42: error: 'struct status' has no member named 'Vspeed'
+   64 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:66:42: error: 'struct status' has no member named 'Vspeed'
+   66 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:44:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   44 |                 OnPage:
+      |                 ^~~~~~
+18:38:29 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:39:32 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:22: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                      ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:39:37 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[5]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+18:46:33 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:12:23: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+   12 |         char Engine[4]="OFF",AC[4]="OFF",EngineTempController[4]="OFF";
+      |                       ^
+..\Project.c: In function 'main':
+..\Project.c:42:30: error: 'struct status' has no member named 'Engine'
+   42 |                 strcpy(System.Engine,"ON");
+      |                              ^
+..\Project.c:46:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   46 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:57:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   57 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:61:42: error: 'struct status' has no member named 'Vspeed'
+   61 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:63:42: error: 'struct status' has no member named 'Vspeed'
+   63 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:65:42: error: 'struct status' has no member named 'Vspeed'
+   65 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:43:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   43 |                 OnPage:
+      |                 ^~~~~~
+13:44:34 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:56:26: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   56 |                 scanf(" %c",welcomeoptions);
+      |                         ~^  ~~~~~~~~~~~~~~
+      |                          |  |
+      |                          |  int
+      |                          char *
+..\Project.c:67:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   67 |                         scanf(" %c",RandomOptions);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  int
+      |                                  char *
+..\Project.c:53:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   53 |                 OnPage:
+      |                 ^~~~~~
+..\Project.c:67:25: warning: 'RandomOptions' may be used uninitialized [-Wmaybe-uninitialized]
+   67 |                         scanf(" %c",RandomOptions);
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Project.c:37:29: note: 'RandomOptions' was declared here
+   37 |         char welcomeoptions,RandomOptions;
+      |                             ^~~~~~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+13:45:47 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:53:17: warning: label 'OnPage' defined but not used [-Wunused-label]
+   53 |                 OnPage:
+      |                 ^~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+13:52:50 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+14:00:20 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:88:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   88 |                         scanf(" %d",System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~
+      |                                  |        |
+      |                                  int *    int
+gcc -o Project-Car.exe Project.o 
+14:00:32 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:88:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   88 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+14:07:49 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:88:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   88 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+14:16:54 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:88:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   88 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+..\Project.c:108:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  108 |                         scanf(" %d",System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~
+      |                                  |        |
+      |                                  int *    int
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+14:17:30 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:88:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   88 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+..\Project.c:108:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+  108 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+15:02:40 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:85:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   85 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+..\Project.c:102:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+  102 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+15:05:39 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:42:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   42 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:87:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   87 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+..\Project.c:104:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+  104 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+gcc -o Project-Car.exe Project.o 
+15:05:55 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:42:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   42 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:89:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+   89 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+..\Project.c:106:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'unsigned char *' [-Wformat=]
+  106 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  unsigned char *
+      |                                  int *
+      |                                 %hhd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+15:08:38 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:13:24: error: both 'short' and 'char' in declaration specifiers
+   13 |         unsigned short char Vspeed,Rtemp,Etemp;
+      |                        ^~~~
+..\Project.c: In function 'main':
+..\Project.c:42:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   42 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:89:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+   89 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:106:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  106 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+15:08:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:42:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   42 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:89:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+   89 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:106:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  106 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+15:10:25 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:42:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   42 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:90:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+   90 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:107:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  107 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+15:14:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:14:57 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+15:15:43 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:15:50 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+15:16:19 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+15:16:32 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+15:16:35 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+15:16:39 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+15:16:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+15:19:53 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:33: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf("%d",&System.Etemp);
+      |                                ~^  ~~~~~~~~~~~~~
+      |                                 |  |
+      |                                 |  short unsigned int *
+      |                                 int *
+      |                                %hd
+gcc -o Project-Car.exe Project.o 
+15:20:05 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:33: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf("%c",&System.Etemp);
+      |                                ~^  ~~~~~~~~~~~~~
+      |                                 |  |
+      |                                 |  short unsigned int *
+      |                                 char *
+      |                                %lc
+..\Project.c:130:25: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  130 |                         if(System.Etemp > 150 || System.Etemp<100)
+      |                         ^~
+..\Project.c:133:33: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  133 |                                 System.Etemp=125;
+      |                                 ^~~~~~
+..\Project.c:71:9: warning: label 'repeat' defined but not used [-Wunused-label]
+   71 |         repeat:
+      |         ^~~~~~
+..\Project.c: At top level:
+..\Project.c:160:9: error: expected identifier or '(' before 'else'
+  160 |         else if(welcomeoptions == 'b')
+      |         ^~~~
+..\Project.c:165:9: error: expected identifier or '(' before 'else'
+  165 |         else if(welcomeoptions == 'c')
+      |         ^~~~
+..\Project.c:170:9: error: expected identifier or '(' before 'else'
+  170 |         else
+      |         ^~~~
+..\Project.c:176:9: error: expected identifier or '(' before 'return'
+  176 |         return 0;
+      |         ^~~~~~
+..\Project.c:177:1: error: expected identifier or '(' before '}' token
+  177 | }
+      | ^
+15:20:16 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:33: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf("%d",&System.Etemp);
+      |                                ~^  ~~~~~~~~~~~~~
+      |                                 |  |
+      |                                 |  short unsigned int *
+      |                                 int *
+      |                                %hd
+..\Project.c:130:25: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  130 |                         if(System.Etemp > 150 || System.Etemp<100)
+      |                         ^~
+..\Project.c:133:33: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  133 |                                 System.Etemp=125;
+      |                                 ^~~~~~
+..\Project.c:71:9: warning: label 'repeat' defined but not used [-Wunused-label]
+   71 |         repeat:
+      |         ^~~~~~
+..\Project.c: At top level:
+..\Project.c:160:9: error: expected identifier or '(' before 'else'
+  160 |         else if(welcomeoptions == 'b')
+      |         ^~~~
+..\Project.c:165:9: error: expected identifier or '(' before 'else'
+  165 |         else if(welcomeoptions == 'c')
+      |         ^~~~
+..\Project.c:170:9: error: expected identifier or '(' before 'else'
+  170 |         else
+      |         ^~~~
+..\Project.c:176:9: error: expected identifier or '(' before 'return'
+  176 |         return 0;
+      |         ^~~~~~
+..\Project.c:177:1: error: expected identifier or '(' before '}' token
+  177 | }
+      | ^
+15:20:24 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+15:20:28 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %c",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  char *
+      |                                 %lc
+gcc -o Project-Car.exe Project.o 
+15:20:40 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:64:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   64 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:112:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  112 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:129:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  129 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+15:55:15 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:16:9: error: expected specifier-qualifier-list before 'if'
+   16 |         if(WITH_ENGINE_TEMP_CONTROLLER)
+      |         ^~
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:27:54: error: 'struct status' has no member named 'Vspeed'
+   27 |         printf(" Vehicle speed is: %d Km/Hr\n",System.Vspeed);
+      |                                                      ^
+..\Project.c:28:53: error: 'struct status' has no member named 'Rtemp'
+   28 |         printf(" Room Temperature is: %d C\n",System.Rtemp);
+      |                                                     ^
+..\Project.c:29:56: error: 'struct status' has no member named 'EngineTempController'
+   29 |         printf(" Engine Temp Controller is %s\n",System.EngineTempController);
+      |                                                        ^
+..\Project.c:30:59: error: 'struct status' has no member named 'Etemp'
+   30 |         printf(" Engine Temperature is: %d C\n\n\n",System.Etemp);
+      |                                                           ^
+..\Project.c: In function 'InitializingStatus':
+..\Project.c:36:22: error: 'struct status' has no member named 'EngineTempController'
+   36 |         strcpy(System.EngineTempController,"OFF");
+      |                      ^
+..\Project.c:38:15: error: 'struct status' has no member named 'Rtemp'
+   38 |         System.Rtemp=29;
+      |               ^
+..\Project.c:39:15: error: 'struct status' has no member named 'Etemp'
+   39 |         System.Etemp=112;
+      |               ^
+..\Project.c:41:18: error: 'struct status' has no member named 'Rtemp'
+   41 |         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                  ^
+..\Project.c:41:39: error: 'struct status' has no member named 'Rtemp'
+   41 |         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                                       ^
+..\Project.c:45:23: error: 'struct status' has no member named 'Rtemp'
+   45 |                 System.Rtemp = 20;
+      |                       ^
+..\Project.c:52:18: error: 'struct status' has no member named 'Etemp'
+   52 |         if(System.Etemp > 150 || System.Etemp<100)
+      |                  ^
+..\Project.c:52:40: error: 'struct status' has no member named 'Etemp'
+   52 |         if(System.Etemp > 150 || System.Etemp<100)
+      |                                        ^
+..\Project.c:54:30: error: 'struct status' has no member named 'EngineTempController'
+   54 |                 strcpy(System.EngineTempController,"ON");
+      |                              ^
+..\Project.c:56:23: error: 'struct status' has no member named 'Etemp'
+   56 |                 System.Etemp=125;
+      |                       ^
+..\Project.c:60:30: error: 'struct status' has no member named 'EngineTempController'
+   60 |                 strcpy(System.EngineTempController,"OFF");
+      |                              ^
+..\Project.c: In function 'main':
+..\Project.c:71:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   71 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:106:42: error: 'struct status' has no member named 'Vspeed'
+  106 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:108:42: error: 'struct status' has no member named 'Vspeed'
+  108 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:110:42: error: 'struct status' has no member named 'Vspeed'
+  110 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:119:44: error: 'struct status' has no member named 'Rtemp'
+  119 |                         scanf(" %d",&System.Rtemp);
+      |                                            ^
+..\Project.c:121:34: error: 'struct status' has no member named 'Rtemp'
+  121 |                         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                                  ^
+..\Project.c:121:55: error: 'struct status' has no member named 'Rtemp'
+  121 |                         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                                                       ^
+..\Project.c:125:39: error: 'struct status' has no member named 'Rtemp'
+  125 |                                 System.Rtemp = 20;
+      |                                       ^
+..\Project.c:136:44: error: 'struct status' has no member named 'Etemp'
+  136 |                         scanf(" %d",&System.Etemp);
+      |                                            ^
+..\Project.c:137:34: error: 'struct status' has no member named 'Etemp'
+  137 |                         if(System.Etemp > 150 || System.Etemp<100)
+      |                                  ^
+..\Project.c:137:56: error: 'struct status' has no member named 'Etemp'
+  137 |                         if(System.Etemp > 150 || System.Etemp<100)
+      |                                                        ^
+..\Project.c:139:46: error: 'struct status' has no member named 'EngineTempController'
+  139 |                                 strcpy(System.EngineTempController,"ON");
+      |                                              ^
+..\Project.c:141:39: error: 'struct status' has no member named 'Etemp'
+  141 |                                 System.Etemp=125;
+      |                                       ^
+..\Project.c:145:46: error: 'struct status' has no member named 'EngineTempController'
+  145 |                                 strcpy(System.EngineTempController,"OFF");
+      |                                              ^
+..\Project.c:156:26: error: 'struct status' has no member named 'Vspeed'
+  156 |                 if(System.Vspeed == 30)
+      |                          ^
+..\Project.c:159:31: error: 'struct status' has no member named 'Rtemp'
+  159 |                         System.Rtemp*=(5/4)+1;
+      |                               ^
+..\Project.c:161:38: error: 'struct status' has no member named 'EngineTempController'
+  161 |                         strcpy(System.EngineTempController,"ON");
+      |                                      ^
+..\Project.c:162:31: error: 'struct status' has no member named 'Etemp'
+  162 |                         System.Etemp*=(5/4)+1;
+      |                               ^
+15:55:50 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c:16:9: error: expected specifier-qualifier-list before 'if'
+   16 |         if(WITH_ENGINE_TEMP_CONTROLLER)
+      |         ^~
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:27:54: error: 'struct status' has no member named 'Vspeed'
+   27 |         printf(" Vehicle speed is: %d Km/Hr\n",System.Vspeed);
+      |                                                      ^
+..\Project.c:28:53: error: 'struct status' has no member named 'Rtemp'
+   28 |         printf(" Room Temperature is: %d C\n",System.Rtemp);
+      |                                                     ^
+..\Project.c:29:56: error: 'struct status' has no member named 'EngineTempController'
+   29 |         printf(" Engine Temp Controller is %s\n",System.EngineTempController);
+      |                                                        ^
+..\Project.c:30:59: error: 'struct status' has no member named 'Etemp'
+   30 |         printf(" Engine Temperature is: %d C\n\n\n",System.Etemp);
+      |                                                           ^
+..\Project.c: In function 'InitializingStatus':
+..\Project.c:36:22: error: 'struct status' has no member named 'EngineTempController'
+   36 |         strcpy(System.EngineTempController,"OFF");
+      |                      ^
+..\Project.c:38:15: error: 'struct status' has no member named 'Rtemp'
+   38 |         System.Rtemp=29;
+      |               ^
+..\Project.c:39:15: error: 'struct status' has no member named 'Etemp'
+   39 |         System.Etemp=112;
+      |               ^
+..\Project.c:41:18: error: 'struct status' has no member named 'Rtemp'
+   41 |         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                  ^
+..\Project.c:41:39: error: 'struct status' has no member named 'Rtemp'
+   41 |         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                                       ^
+..\Project.c:45:23: error: 'struct status' has no member named 'Rtemp'
+   45 |                 System.Rtemp = 20;
+      |                       ^
+..\Project.c:52:18: error: 'struct status' has no member named 'Etemp'
+   52 |         if(System.Etemp > 150 || System.Etemp<100)
+      |                  ^
+..\Project.c:52:40: error: 'struct status' has no member named 'Etemp'
+   52 |         if(System.Etemp > 150 || System.Etemp<100)
+      |                                        ^
+..\Project.c:54:30: error: 'struct status' has no member named 'EngineTempController'
+   54 |                 strcpy(System.EngineTempController,"ON");
+      |                              ^
+..\Project.c:56:23: error: 'struct status' has no member named 'Etemp'
+   56 |                 System.Etemp=125;
+      |                       ^
+..\Project.c:60:30: error: 'struct status' has no member named 'EngineTempController'
+   60 |                 strcpy(System.EngineTempController,"OFF");
+      |                              ^
+..\Project.c: In function 'main':
+..\Project.c:71:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   71 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:106:42: error: 'struct status' has no member named 'Vspeed'
+  106 |                         case('G'): System.Vspeed = 100;
+      |                                          ^
+..\Project.c:108:42: error: 'struct status' has no member named 'Vspeed'
+  108 |                         case('O'): System.Vspeed = 30;
+      |                                          ^
+..\Project.c:110:42: error: 'struct status' has no member named 'Vspeed'
+  110 |                         case('R'): System.Vspeed = 0;
+      |                                          ^
+..\Project.c:119:44: error: 'struct status' has no member named 'Rtemp'
+  119 |                         scanf(" %d",&System.Rtemp);
+      |                                            ^
+..\Project.c:121:34: error: 'struct status' has no member named 'Rtemp'
+  121 |                         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                                  ^
+..\Project.c:121:55: error: 'struct status' has no member named 'Rtemp'
+  121 |                         if(System.Rtemp < 10 || System.Rtemp > 30)
+      |                                                       ^
+..\Project.c:125:39: error: 'struct status' has no member named 'Rtemp'
+  125 |                                 System.Rtemp = 20;
+      |                                       ^
+..\Project.c:136:44: error: 'struct status' has no member named 'Etemp'
+  136 |                         scanf(" %d",&System.Etemp);
+      |                                            ^
+..\Project.c:137:34: error: 'struct status' has no member named 'Etemp'
+  137 |                         if(System.Etemp > 150 || System.Etemp<100)
+      |                                  ^
+..\Project.c:137:56: error: 'struct status' has no member named 'Etemp'
+  137 |                         if(System.Etemp > 150 || System.Etemp<100)
+      |                                                        ^
+..\Project.c:139:46: error: 'struct status' has no member named 'EngineTempController'
+  139 |                                 strcpy(System.EngineTempController,"ON");
+      |                                              ^
+..\Project.c:141:39: error: 'struct status' has no member named 'Etemp'
+  141 |                                 System.Etemp=125;
+      |                                       ^
+..\Project.c:145:46: error: 'struct status' has no member named 'EngineTempController'
+  145 |                                 strcpy(System.EngineTempController,"OFF");
+      |                                              ^
+..\Project.c:156:26: error: 'struct status' has no member named 'Vspeed'
+  156 |                 if(System.Vspeed == 30)
+      |                          ^
+..\Project.c:159:31: error: 'struct status' has no member named 'Rtemp'
+  159 |                         System.Rtemp*=(5/4)+1;
+      |                               ^
+..\Project.c:161:38: error: 'struct status' has no member named 'EngineTempController'
+  161 |                         strcpy(System.EngineTempController,"ON");
+      |                                      ^
+..\Project.c:162:31: error: 'struct status' has no member named 'Etemp'
+  162 |                         System.Etemp*=(5/4)+1;
+      |                               ^
+15:56:40 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:69:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   69 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:117:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  117 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:134:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  134 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+15:56:55 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:67:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   67 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:115:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  115 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:132:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  132 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+16:18:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:71:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   71 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:123:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  123 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:140:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  140 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+16:19:11 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:71:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   71 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:123:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  123 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:140:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  140 |                         scanf(" %d",&System.Etemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+16:25:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:78:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   78 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:130:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  130 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:149:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  149 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+16:26:47 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:33:29: error: expected ';' before '}' token
+   33 |                 puts("\n\n")
+      |                             ^
+      |                             ;
+   34 |                 // Do nothing
+   35 |         }
+      |         ~                    
+..\Project.c: In function 'main':
+..\Project.c:79:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   79 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:131:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  131 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:150:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  150 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+16:26:49 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'DisplayStatus':
+..\Project.c:33:29: error: expected ';' before '}' token
+   33 |                 puts("\n\n")
+      |                             ^
+      |                             ;
+   34 |                 // Do nothing
+   35 |         }
+      |         ~                    
+..\Project.c: In function 'main':
+..\Project.c:79:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   79 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:131:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  131 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:150:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  150 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+16:26:57 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:79:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   79 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:131:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  131 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:150:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  150 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+16:27:48 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:78:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   78 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:130:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  130 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:149:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  149 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:31:14 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:92:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   92 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:144:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:163:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  163 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:52:36 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:92:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   92 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:144:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:163:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  163 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+11:46:46 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:93:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   93 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:145:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  145 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:164:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  164 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+11:47:12 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:93:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   93 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:145:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  145 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:164:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  164 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+gcc -o Project-Car.exe Project.o 
+11:50:36 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:94:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   94 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:147:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+11:53:33 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:94:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   94 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:147:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:166:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  166 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+..\Project.c:186:25: warning: label 'incorrect' defined but not used [-Wunused-label]
+  186 |                         incorrect:
+      |                         ^~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+11:59:26 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:94:26: warning: comparison with string literal results in unspecified behavior [-Waddress]
+   94 |         if(System.Engine == "ON")
+      |                          ^~
+..\Project.c:147:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:166:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  166 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+..\Project.c:186:25: warning: label 'incorrect' defined but not used [-Wunused-label]
+  186 |                         incorrect:
+      |                         ^~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+12:01:53 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:147:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:166:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  166 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+..\Project.c:186:25: warning: label 'incorrect' defined but not used [-Wunused-label]
+  186 |                         incorrect:
+      |                         ^~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+12:02:21 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:147:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:166:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  166 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+..\Project.c:186:25: warning: label 'incorrect' defined but not used [-Wunused-label]
+  186 |                         incorrect:
+      |                         ^~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+12:02:47 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'main':
+..\Project.c:147:34: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |                         scanf(" %d",&System.Rtemp);
+      |                                 ~^  ~~~~~~~~~~~~~
+      |                                  |  |
+      |                                  |  short unsigned int *
+      |                                  int *
+      |                                 %hd
+..\Project.c:166:42: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  166 |                                 scanf(" %d",&System.Etemp);
+      |                                         ~^  ~~~~~~~~~~~~~
+      |                                          |  |
+      |                                          |  short unsigned int *
+      |                                          int *
+      |                                         %hd
+..\Project.c:186:25: warning: label 'incorrect' defined but not used [-Wunused-label]
+  186 |                         incorrect:
+      |                         ^~~~~~~~~
+gcc -o Project-Car.exe Project.o 
+15:25:42 **** Rebuild of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:127:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  127 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:146:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  146 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:190:25: warning: implicit declaration of function 'traffic'; did you mean 'Traffic'? [-Wimplicit-function-declaration]
+  190 |                         traffic();
+      |                         ^~~~~~~
+      |                         Traffic
+..\Project.c: In function 'main':
+..\Project.c:246:66: warning: implicit declaration of function 'exit' [-Wimplicit-function-declaration]
+  246 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:9:1: note: include '<stdlib.h>' or provide a declaration of 'exit'
+    8 | #include<math.h>
+  +++ |+#include <stdlib.h>
+    9 | 
+..\Project.c:246:66: warning: incompatible implicit declaration of built-in function 'exit' [-Wbuiltin-declaration-mismatch]
+  246 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:246:66: note: include '<stdlib.h>' or provide a declaration of 'exit'
+..\Project.c: In function 'Traffic':
+..\Project.c:121:1: warning: control reaches end of non-void function [-Wreturn-type]
+  121 | }
+      | ^
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: Project.o: in function `OptionA':
+E:\Engineering Apps\Eclipse\Eclipse Workspace\WorkSpace Project\Project-Car\Debug/../Project.c:190: undefined reference to `traffic'
+collect2.exe: error: ld returned 1 exit status
+15:35:34 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:147:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:191:25: warning: implicit declaration of function 'traffic'; did you mean 'Traffic'? [-Wimplicit-function-declaration]
+  191 |                         traffic();
+      |                         ^~~~~~~
+      |                         Traffic
+..\Project.c: In function 'main':
+..\Project.c:238:66: warning: implicit declaration of function 'exit' [-Wimplicit-function-declaration]
+  238 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:9:1: note: include '<stdlib.h>' or provide a declaration of 'exit'
+    8 | #include<math.h>
+  +++ |+#include <stdlib.h>
+    9 | 
+..\Project.c:238:66: warning: incompatible implicit declaration of built-in function 'exit' [-Wbuiltin-declaration-mismatch]
+  238 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:238:66: note: include '<stdlib.h>' or provide a declaration of 'exit'
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: Project.o: in function `OptionA':
+E:\Engineering Apps\Eclipse\Eclipse Workspace\WorkSpace Project\Project-Car\Debug/../Project.c:191: undefined reference to `traffic'
+collect2.exe: error: ld returned 1 exit status
+15:36:33 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:147:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:191:25: warning: implicit declaration of function 'traffic'; did you mean 'Traffic'? [-Wimplicit-function-declaration]
+  191 |                         traffic();
+      |                         ^~~~~~~
+      |                         Traffic
+..\Project.c: In function 'main':
+..\Project.c:238:66: warning: implicit declaration of function 'exit' [-Wimplicit-function-declaration]
+  238 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:9:1: note: include '<stdlib.h>' or provide a declaration of 'exit'
+    8 | #include<math.h>
+  +++ |+#include <stdlib.h>
+    9 | 
+..\Project.c:238:66: warning: incompatible implicit declaration of built-in function 'exit' [-Wbuiltin-declaration-mismatch]
+  238 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:238:66: note: include '<stdlib.h>' or provide a declaration of 'exit'
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: Project.o: in function `OptionA':
+E:\Engineering Apps\Eclipse\Eclipse Workspace\WorkSpace Project\Project-Car\Debug/../Project.c:191: undefined reference to `traffic'
+collect2.exe: error: ld returned 1 exit status
+15:36:44 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:147:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  147 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'main':
+..\Project.c:238:66: warning: implicit declaration of function 'exit' [-Wimplicit-function-declaration]
+  238 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:9:1: note: include '<stdlib.h>' or provide a declaration of 'exit'
+    8 | #include<math.h>
+  +++ |+#include <stdlib.h>
+    9 | 
+..\Project.c:238:66: warning: incompatible implicit declaration of built-in function 'exit' [-Wbuiltin-declaration-mismatch]
+  238 |                 case('c'):printf(" Quitting from the system\n"); exit(1);
+      |                                                                  ^~~~
+..\Project.c:238:66: note: include '<stdlib.h>' or provide a declaration of 'exit'
+gcc -o Project-Car.exe Project.o 
+16:13:38 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+16:14:25 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+16:14:36 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+16:14:49 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %c", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  char *
+      |                 %lc
+gcc -o Project-Car.exe Project.o 
+16:14:54 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+16:15:24 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:128:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  128 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:148:26: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  148 |                 scanf(" %d", &System.Etemp);
+      |                         ~^   ~~~~~~~~~~~~~
+      |                          |   |
+      |                          |   short unsigned int *
+      |                          int *
+      |                         %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:18:15 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:18:22 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:31:24 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+17:49:06 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:51:32 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:53:02 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+17:59:05 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:213:49: error: expected expression before 'float'
+  213 |                 System.Etemp = (System.Etemp) * float(5 / 4) + 1;
+      |                                                 ^~~~~
+17:59:20 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:59:39 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+18:01:34 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+19:31:30 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+19:32:58 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:213:53: error: expected ';' before 'DisplayStatus'
+  213 |                 System.Etemp = (System.Etemp) * 1.25
+      |                                                     ^
+      |                                                     ;
+  214 | 
+  215 |         DisplayStatus();
+      |         ~~~~~~~~~~~~~                                
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main(void)
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main(void)
+      |     ^~~~
+19:33:08 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main(void)
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main(void)
+      |     ^~~~
+19:33:37 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main(void)
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main(void)
+      |     ^~~~
+19:33:48 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main(void)
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main(void)
+      |     ^~~~
+19:34:17 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main(void)
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main(void)
+      |     ^~~~
+19:34:40 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main(void)
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main(void)
+      |     ^~~~
+19:34:53 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'OptionA':
+..\Project.c:220:5: warning: 'main' is normally a non-static function [-Wmain]
+  220 | int main()
+      |     ^~~~
+..\Project.c:244:1: error: expected declaration or statement at end of input
+  244 | }
+      | ^
+..\Project.c:246: warning: control reaches end of non-void function [-Wreturn-type]
+..\Project.c: At top level:
+..\Project.c:220:5: warning: 'main' defined but not used [-Wunused-function]
+  220 | int main()
+      |     ^~~~
+19:34:58 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+19:35:09 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+19:35:22 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+19:35:29 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+19:36:06 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+..\Project.c: In function 'RoomTemp':
+..\Project.c:124:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  124 |         scanf(" %d", &System.Rtemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+..\Project.c: In function 'EngineTemp':
+..\Project.c:144:18: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'short unsigned int *' [-Wformat=]
+  144 |         scanf(" %d", &System.Etemp);
+      |                 ~^   ~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   short unsigned int *
+      |                  int *
+      |                 %hd
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
+20:37:22 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Project.o "..\\Project.c" 
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:37:38 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:37:41 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Project-Car.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:37:52 **** Incremental Build of configuration Debug for project Project-Car ****
+Info: Internal Builder is used for build
+gcc -o Project-Car.exe Project.o 
+Info: Nothing to build for Project-Car
+Info: Nothing to build for Project-Car
